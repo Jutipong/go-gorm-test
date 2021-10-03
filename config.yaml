@@ -1,0 +1,10 @@
+Server:
+  Env: development
+  RunMode: debug
+  Port: 8080
+Database:
+  Server: localhost
+  Port: 1433
+  User: sa
+  Pass: p@ssw0rd
+  DatabaseName: Test-Test
